@@ -36,7 +36,7 @@ Kerala has immense potential to excel in the Technology Startup Ecosystem by lev
 
 #### History of Open Source Contributions:
 
-I have contributed to several open-source projects, including [Project A](https://github.com/username/projectA) and [Project B](https://github.com/username/projectB), where I implemented new features, fixed bugs, and provided documentation. These contributions have not only helped improve the projects but also allowed me to collaborate with developers worldwide and enhance my skills.
+I have contributed to several open-source projects, including HireMate and Tasky APP, where I implemented new features, fixed bugs, and provided documentation. These contributions have not only helped improve the projects but also allowed me to collaborate with developers worldwide and enhance my skills.
 
 #### History of Community Engagement:
 
@@ -48,7 +48,10 @@ I have authored several technical blog posts on topics such as software architec
 
 #### Highly Used Software Tools:
 
-I have developed a software tool called "Tool X," which automates repetitive tasks in software development, significantly improving productivity for developers. "Tool X" has garnered positive feedback from users and has been widely adopted in the developer community.
+VScode
+Anaconda
+Visual studio
+Pycharm
 
 #### Competitive Website Profiles:
 
