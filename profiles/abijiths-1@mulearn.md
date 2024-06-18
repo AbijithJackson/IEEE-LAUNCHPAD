@@ -24,34 +24,34 @@ I have demonstrated leadership and influencing skills through my active involvem
 
 #### Networking:
 
-My networking skills involve actively engaging with online communities such as tech forums, participating in industry events, and connecting with professionals through platforms like LinkedIn. I plan to further engage with the community by contributing to open-source projects, attending meetups, and sharing insights through blog posts and talks.
+- My networking skills involve actively engaging with online communities such as tech forums, participating in industry events, and connecting with professionals through platforms like LinkedIn. I plan to further engage with the community by contributing to open-source projects, attending meetups, and sharing insights through blog posts and talks.
 
 #### Career Plan:
 
-In the short term, I aim to continue honing my skills in software engineering and machine learning through hands-on projects and continued learning. In the longer term, I aspire to become a technical leader in the Kerala Startup Ecosystem, contributing to its growth by mentoring aspiring developers, fostering innovation, and establishing collaborative initiatives.
+- In the short term, I aim to continue honing my skills in software engineering and machine learning through hands-on projects and continued learning. In the longer term, I aspire to become a technical leader in the Kerala Startup Ecosystem, contributing to its growth by mentoring aspiring developers, fostering innovation, and establishing collaborative initiatives.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-Kerala has immense potential to excel in the Technology Startup Ecosystem by leveraging its talented pool of tech professionals, fostering a culture of innovation and entrepreneurship, and providing robust support systems for startups, including access to funding, mentorship, and networking opportunities.
+- Kerala has immense potential to excel in the Technology Startup Ecosystem by leveraging its talented pool of tech professionals, fostering a culture of innovation and entrepreneurship, and providing robust support systems for startups, including access to funding, mentorship, and networking opportunities.
 
 #### History of Open Source Contributions:
 
-I have contributed to several open-source projects, including HireMate and Tasky APP, where I implemented new features, fixed bugs, and provided documentation. These contributions have not only helped improve the projects but also allowed me to collaborate with developers worldwide and enhance my skills.
+- I have contributed to several open-source projects, including HireMate and Tasky APP, where I implemented new features, fixed bugs, and provided documentation. These contributions have not only helped improve the projects but also allowed me to collaborate with developers worldwide and enhance my skills.
 
 #### History of Community Engagement:
 
-I have actively engaged with the technical community by participating in forums like Stack Overflow, where I have answered questions and shared insights on various topics related to software development and machine learning. Additionally, I have been a part of Discord servers and mailing lists dedicated to technology discussions, where I've exchanged ideas and collaborated on projects.
+- I have actively engaged with the technical community by participating in forums like Stack Overflow, where I have answered questions and shared insights on various topics related to software development and machine learning. Additionally, I have been a part of Discord servers and mailing lists dedicated to technology discussions, where I've exchanged ideas and collaborated on projects.
 
 #### Highly Visible Technical Content:
 
-I have authored several technical blog posts on topics such as software architecture, machine learning algorithms, and best practices in coding, which have been well-received by the community. Additionally, I have created video tutorials on YouTube covering advanced programming concepts, reaching a wide audience of learners.
+- I have posted many projects on Github.
 
 #### Highly Used Software Tools:
 
-VScode
-Anaconda
-Visual studio
-Pycharm
+- VScode
+- Anaconda
+- Visual studio
+- Pycharm
 
 #### Competitive Website Profiles:
 
